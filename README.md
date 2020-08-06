@@ -28,7 +28,6 @@
 - [CSS 样式](./notes/CSS%20-%20目录.md)
 - [JavaScript 行为](./notes/JavaScript%20-%20目录.md)
   - [ ] 通用库：jQuery（★★，过时，但可以学习 API 的设计以及维护旧代码）
-
 - [W3C 标准](./notes/W3C.md)
 
 
@@ -57,37 +56,30 @@
 
 - [前端工程化思考](./notes/前端工程化%20-%20思考.md)
 - [JavaScript 模块化](./notes/前端工程化%20-%20JavaScript%20模块化.md)
-
 - [CSS 处理器](./notes/CSS%20-%20预处理器.md)
-
 - 工程化工具
   - [Git](./notes/工具%20-%20Git.md)
   - [构建工具](./notes/前端工程化%20-%20构建工具.md)
     - [Webpack](./notes/前端工程化%20-%20构建工具%20Webpack.md)
   - [npm](./notes/工具%20-%20包管理器.md)
 - [前端性能优化](./notes/前端%20-%20性能优化.md)
-
-
 - 代码规范
   - [代码可读性](./notes/代码可读性.md)
   - JavaScript 代码规范<span style="color:black ">（！）</span>
 - 可测试性
-
   - 测试技术
   - [Chrome DevTools](./notes/工具%20-%20Chrome%20DevTools.md)
-
 - [其它工具](./notes/工具%20-%20其它工具.md)
   - [sublime](./notes/工具%20-%20sublime.md)
 
 
 
 
-
-- [ ] [Modern CSS](./notes/前端%20-%20Modern CSS.md)<span style="color:black ">（！）</span>
-- [ ] [CSS in JS](./notes/前端%20-%20CSS in JS.md)<span style="color:black ">（！）</span>
-- [ ] [CSS 架构](前端%20-%20CSS 架构.md)<span style="color:black ">（！）</span>
-- [ ] [Web 组件](./notes/前端%20-%20Web 组件.md)<span style="color:black ">（！）</span>
-- [ ] [Mock 服务](./notes/前端%20-%20Mock 服务.md)<span style="color:black ">（！）</span>
+- [ ] [Modern CSS](./notes/前端%20-%20Modern%20CSS.md)<span style="color:black ">（！）</span>
+- [ ] [CSS in JS](./notes/CSS%20in%20JS.md)<span style="color:black ">（！）</span>
+- [ ] [CSS 架构](./notes/CSS%20-%20架构.md)<span style="color:black ">（！）</span>
+- [ ] [Web 组件](./notes/前端%20-%20Web%20组件.md)<span style="color:black ">（！）</span>
+- [ ] [Mock 服务](./notes/前端%20-%20Mock%20服务.md)<span style="color:black ">（！）</span>
 
 
 
@@ -104,18 +96,14 @@
 - [浏览器及其工作原理](./notes/工具%20-%20浏览器.md)
 - [前端新技术](./notes/前端%20-%20新技术.md)
 
-
-
 - [ ] 数据可视化（★★★）
   - [ ] echarts
 - [ ] 最佳实践：SEO（★★★）
 - [ ] 中间语言
   - 静态类型检查：[TypeScript](./notes/前端%20-%20TypeScript.md)（★★★★）、Flow
-
   - CoffeeScript [GitHub\]
   - ClojureScript [[GitHub\]](https://github.com/clojure/clojurescript/)
   - [JSX (Facebook)](http://facebook.github.io/react/docs/jsx-in-depth.html)
-
 - [ ] [静态站点生成器](./notes/前端%20-%20静态站点生成器.md)<span style="color:black ">（！）</span>
 - [ ] [桌面应用开发](./notes/前端%20-%20桌面应用开发.md)<span style="color:black ">（！）</span>
 
@@ -143,9 +131,9 @@
 
 # :paperclip: 后记
 
-- [书单 & 题库 & 资料](./notes/书单%20-%20汇总（题库 & 资料）.md)
+- [书单 & 题库 & 资料](./notes/书单%20-%20汇总（题库%20&%20资料）.md)
   - [前端 - 学习路线](./notes/前端%20-%20学习路线.md)
-  - [Web 前端开发技术栈](notes/Web 前端开发技术栈.md)
+  - [Web 前端开发技术栈](notes/Web%20前端开发技术栈.md)
 - [前端 - 术语列表](./notes/前端%20-%20术语.md)
 - [前端 - 工具列表](./notes/前端%20-%20工具.md)
 - [后端 - 编程语言概述](./notes/后端%20-%20编程语言概述.md)
