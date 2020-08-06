@@ -551,6 +551,10 @@ Creating a new branch is quick AND simple.
 
 
 
+
+
+
+
 ### Fast forward
 
 "快进式合并"（fast-farward merge），会直接将 master 分支指向合并的分支，在这种模式下进行分支合并会丢失分支信息，也就不能在分支历史上看出分支信息。

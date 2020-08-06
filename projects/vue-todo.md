@@ -1,11 +1,69 @@
 # 简介
 
-实现一个 ToDo 应用。
+实现一个 Todo 应用。
 
 - 框架/工具：webpack（4.32.1）+ vue（2.6.10）
 - 安装 Vue 的方式： npm
 
 初衷：简化业务逻辑，手动配置 webpack，以实践方式体会前端工程化思想。
+
+
+
+
+
+# 演示
+
+**初始界面**
+
+未完成的待办事件为 0。
+
+<div align="center"> <img src="pics/image-20200806120439155.png"/> </div><br>
+
+
+
+
+
+**添加多个待办事项**
+
+未完成的待办事件为 6。
+
+<div align="center"> <img src="pics/image-20200806120651255.png"/> </div><br>
+
+
+
+
+
+**完成部分待办事项**
+
+未完成的待办事件为 3。
+
+<div align="center"> <img src="pics/image-20200806120832546.png"/> </div><br>
+
+
+
+
+
+**显示未完成的待办事项**
+
+<div align="center"> <img src="pics/image-20200806120947995.png"/> </div><br>
+
+
+
+
+
+**显示已完成的待办事项**
+
+<div align="center"> <img src="pics/image-20200806121004812.png"/> </div><br>
+
+
+
+
+
+**清除已完成的待办事项**
+
+<div align="center"> <img src="pics/image-20200806121040774.png"/> </div><br>
+
+
 
 
 
@@ -174,10 +232,6 @@ MiniCssExtractPlugin
 
 区分类库代码和业务逻辑代码。
 
-单独打包 vue 框架。
 
 
 
-
-
-# 演示
