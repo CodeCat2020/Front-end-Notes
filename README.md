@@ -1,5 +1,16 @@
 
 
+实战项目：
+
+- [Vue-todo](projects/vue-todo.md)：vue + webpack
+- [Vue-mall](projects/vue-mall.md)：vue cli3 + vue-router + axios + vuex + vue-lazyload
+
+
+
+
+
+notes：
+
 > 计算机基础、Java、设计模式、系统设计、正则表达式等部分内容转载自 [CyC2018](https://github.com/CyC2018/CS-Notes)。其它内容的参考资料在页面中或页面下方给出。
 
 
@@ -47,6 +58,7 @@
 ## 跨平台技术
 
 - [跨平台开发概述](./notes/前端%20-%20跨平台%20概述.md)
+
 - [移动应用开发](./notes/前端%20-%20移动端开发.md)
 
 
@@ -82,11 +94,6 @@
 - [ ] [Mock 服务](./notes/前端%20-%20Mock%20服务.md)<span style="color:black ">（！）</span>
 
 
-
-## 实战项目
-
-- [Vue-todo](projects/vue-todo.md)：vue + webpack
-- [Vue-mall](projects/vue-mall.md)：vue cli3 + vue-router + axios + vuex + vue-lazyload
 
 
 
